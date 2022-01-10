@@ -48,7 +48,7 @@ The metrics I want to test are the city and highway mpg.
 My null hypothesis is that all of the cars in the same class have the same fuel efficienies. My alternative hypothesis is that they are not all the same.
 
 * What statistical test would you use to test the hypothesis? And why?
-I would use an ANOVA test to complete this analysis for both types of fuel efficiencies.
+I would use an ANOVA test to complete this analysis for both types of fuel efficiencies. ANOVA tests are used to compare the means of a continuous numerical variable across a number of groups.
 
 * What data is needed to run the statistical test?
 I would need fuel efficiency data from 50 individual cars to create a sample size of data for each car in each class type.
